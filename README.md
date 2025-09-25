@@ -10,7 +10,7 @@ Este portfólio reúne minhas principais **contribuições em projetos**, além 
 ### Projeto eda-hashmap-analysis
 - Repositório original: [rafaelserey/eda-hashmap-analysis](https://github.com/rafaelserey/eda-hashmap-analysis)  
 - Minha contribuição: [PR #1](https://github.com/rafaelserey/eda-hashmap-analysis/pull/1)  
-- O que fiz: implementação das estruturas de **HashMap** utilizadas no projeto.
+- O que fiz: implementação das **estruturas de HashMap**, que serviram como **base para a análise de desempenho** do projeto.
 
 </details>
 
