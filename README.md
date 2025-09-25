@@ -24,8 +24,8 @@ Este portfólio reúne minhas principais **contribuições em projetos**, além 
 - 🥈 Medalha de Prata na **Olimpíada Paraíbana de Infórmatica (Avançado Jr.)** (2025).
 - 🥉 Medalha de Bronze na **Olimpíada Paraíbana de Infórmatica (Iniciação 2)** (2019).
 - 🥉 Medalha de Bronze na **Olimpíada Paraíbana de Infórmatica (Iniciação 2)** (2018).
-- 📜 Certificado de participação no **Curso Avançado de Estruturas de Dados** (2024).  
-- 📜 Certificação em **Algoritmos Competitivos** (2023).
+- 📜 Certificado de proêficiencia em Inglês - Cambridge English A2 Key (2019)  
+- 📜 Certificado de proêficiencia em Inglês - Cambridge English Flyers (2018)
 
 </details>
 
@@ -34,9 +34,7 @@ Este portfólio reúne minhas principais **contribuições em projetos**, além 
 <details>
 <summary><b>🎤 Monitorias e Eventos</b></summary>
 
-- 👨‍🏫 Monitor de **Estruturas de Dados** (Universidade ___, 2024).  
-- 🏆 2º Lugar no **Hackathon XYZ** (2023).  
-- 🎤 Palestrante no **Evento ABC** com o tema *Introdução a Algoritmos Avançados* (2024).  
-- 👥 Participação no **Encontro Nacional de Estudantes de Computação** (2022).
+- 👨‍🏫 Monitor de **Programação 2 (POO)** (Universidade Federal de Campina Grande, 2025).  
+- 👨‍🏫 Monitor de **Fundamentos de Matemática Para Ciência da Computação** (Universidade Federal de Campina Grande, 2024 - 2025).
 
 </details>
